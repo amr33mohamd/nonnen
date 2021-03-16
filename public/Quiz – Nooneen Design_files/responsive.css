@@ -1,0 +1,42 @@
+@media(max-width: 1200px) and (min-width: 991px) {
+    .design-sense > div {
+        max-width: 30% !important;
+    }
+}
+
+@media(min-width:1600px) {
+    .style-step-1 .section-right {
+            margin-left: 54%!important;
+    }
+}
+
+@media(min-width: 992px) and (max-width:1599px){
+	.style-step-1 .section-right {
+	    margin-left: 42%;
+	}
+}
+
+@media(min-width: 992px){
+	/*.style-step-1 .section-right {*/
+	/*    margin-left: 42%;*/
+	/*}*/
+
+	.style-step-1 .section-left {
+	    /* padding: 25px 35px 100px 72px; */
+	    margin: auto;
+	    position: fixed;
+	    z-index: 1;
+	}
+
+	.section .section-left {
+	    /* padding: 25px 35px 100px 72px; */
+	}
+}
+
+@media(max-width: 991px){
+	.style-step-1 .section-left{
+		position: static;
+		padding: 24px 15px;
+		text-align: center;
+	}
+}

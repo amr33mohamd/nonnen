@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="54px" viewBox="0 0 100 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>MixHiLow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MixHiLow" transform="translate(0.000000, 1.000000)">
+            <g id="Group">
+                <path d="M91.586,35.988 C90.478,35.988 89.371,36.126 88.402,36.264 C91.862,36.818 94.492,38.064 94.492,39.448 C94.492,40.971 92.001,42.216 88.402,42.632 C89.372,42.77 90.478,42.908 91.586,42.908 C96.707,42.908 98.783,41.386 98.783,39.448 C98.783,37.51 96.707,35.988 91.586,35.988 Z" id="Path"></path>
+                <polygon id="Path" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" points="1.085 10.6 70.085 10.6 70.085 52.401 1.085 52.401"></polygon>
+                <path d="M98.783,49.967 L90.617,52.321 L90.617,42.908 L98.783,41.248 L98.783,49.967 Z M46.047,10.52 L48.816,10.52 L48.816,51.352 L46.047,51.352 L46.047,10.52 Z M1.136,24.037 L1.136,20.715 L25.496,20.715 L25.496,24.037 L1.136,24.037 Z" id="Shape"></path>
+                <path d="M46.15,24.067 L46.15,20.745 L70.511,20.745 L70.511,24.067 L46.15,24.067 Z M49.508,10.52 L46.048,10.52 L39.264,0.276 L42.032,0.276 L49.508,10.52 Z M1.038,34.239 L1.038,30.917 L25.4,30.917 L25.4,34.239 L1.038,34.239 Z M46.053,34.269 L46.053,30.947 L70.413,30.947 L70.413,34.269 L46.053,34.269 Z M1.08,44.44 L1.08,41.12 L25.44,41.12 L25.44,44.442 L1.08,44.44 Z M46.094,44.47 L46.094,41.15 L70.454,41.15 L70.454,44.472 L46.094,44.47 Z" id="Shape"></path>
+                <path d="M1.063,20.624 L25.423,20.624 M46.047,20.624 L70.408,20.624 M1.063,30.866 L25.423,30.866 M46.047,30.866 L70.408,30.866 M1.063,41.109 L25.423,41.109 M1.063,51.213 L25.423,51.213 M46.047,41.109 L70.408,41.109 M46.047,51.213 L70.408,51.213" id="Shape" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <ellipse id="Oval" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" cx="89.509" cy="39.448" rx="9.274" ry="3.46"></ellipse>
+                <path d="M98.783,39.448 L98.783,44.154 C98.783,46.092 94.631,47.614 89.509,47.614 C84.389,47.614 80.236,46.092 80.236,44.154 L80.236,39.448" id="Path" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M98.783,44.016 L98.783,48.722 C98.783,50.66 94.631,52.182 89.509,52.182 C84.389,52.182 80.236,50.66 80.236,48.722 L80.236,44.016" id="Path" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Path" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" points="60.581 0.277 11.029 0.277 1.063 10.519 70.408 10.519"></polygon>
+                <polygon id="Path" stroke="#E0B490" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" points="46.047 10.52 25.424 10.52 32.898 0.276 38.712 0.276"></polygon>
+                <path d="M1.063,10.52 L1.063,51.213 M70.408,10.52 L70.408,51.213" id="Shape" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Path" stroke="#E0B490" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" points="25.462 10.6 46.085 10.6 46.085 52.401 25.462 52.401"></polygon>
+                <g transform="translate(32.000000, 24.000000)" fill="#000000" font-family="Helvetica" font-size="10.34" font-weight="normal" id="$">
+                    <text>
+                        <tspan x="0.615" y="10.385">$</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

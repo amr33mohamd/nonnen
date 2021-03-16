@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="49px" viewBox="0 0 58 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Own</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Own" transform="translate(1.000000, 1.000000)" stroke="#000000">
+            <g id="Group">
+                <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="3.5 3 52.5 3 52.5 19 3.5 19"></polygon>
+                <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="26.75 1 44.5 19 50 19 50 47 6 47 6 19 9 19"></polygon>
+                <path d="M0,47.5 L56,47.5" id="Path" stroke-linecap="square"></path>
+                <polygon id="Path" stroke-linecap="round" stroke-linejoin="round" points="22.559 28.824 32.167 28.824 32.167 43.235 22.559 43.235"></polygon>
+                <path d="M10.069,28.824 L17.755,28.824 L17.755,36.51 L10.069,36.51 L10.069,28.824 Z M36.97,28.824 L44.657,28.824 L44.657,36.51 L36.97,36.51 L36.97,28.824 Z M18.716,43.235 L35.049,43.235 L35.049,47.078 L18.716,47.078 L18.716,43.235 Z M40.814,0 L45.618,0 L45.618,6.725 L40.814,6.725 L40.814,0 Z M23.52,13.451 L31.206,13.451 L31.206,20.176 L23.52,20.176 L23.52,13.451 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

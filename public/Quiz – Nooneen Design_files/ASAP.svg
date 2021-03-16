@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="54px" viewBox="0 0 58 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ASAP</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ASAP" transform="translate(1.000000, 0.000000)">
+            <polygon id="Path" stroke="#000000" stroke-width="1.5" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" points="0.055 3.613 49.07 3.613 49.07 52.628 0.055 52.628"></polygon>
+            <path d="M6.799,20.473 L13.904,20.473 M21.01,20.473 L28.115,20.473 M6.799,28.06 L13.904,28.06 M21.01,28.06 L28.115,28.06 M6.799,35.768 L13.904,35.768 M21.01,35.768 L28.115,35.768 M35.22,43.355 L42.326,43.355 M6.799,43.355 L13.904,43.355 M21.01,43.355 L28.115,43.355 M0.055,11.802 L49.07,11.802" id="Shape" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M13.904,0 L13.904,7.105 M35.22,0 L35.22,7.105" id="Shape" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M53.646,33.84 C54.85,32.034 55.5730409,29.987 55.5730409,27.578 C55.5809956,24.6369574 54.4162096,21.8140681 52.3365708,19.7344292 C50.2569319,17.6547904 47.4340426,16.4900044 44.493,16.4979591 C41.5519574,16.4900044 38.7290681,17.6547904 36.6494292,19.7344292 C34.5697904,21.8140681 33.4050044,24.6369574 33.4129591,27.578 C33.4050044,30.5190426 34.5697904,33.3419319 36.6494292,35.4215708 C38.7290681,37.5012096 41.5519574,38.6659956 44.493,38.6580409 C46.661,38.6580409 48.708,38.056 50.394,36.972 L53.646,36.972 L53.646,33.84 L53.646,33.84 Z" id="Path" stroke="#E0B490" stroke-width="1.5" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+            <g id="Group" transform="translate(42.530000, 21.677000)">
+                <path d="M1.963,0.361 L1.963,7.226" id="Path" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="1.963" cy="9.634" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

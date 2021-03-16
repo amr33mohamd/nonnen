@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="55px" viewBox="0 0 69 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Apartment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apartment" transform="translate(1.000000, 1.000000)" stroke="#000000">
+            <g id="Group">
+                <path d="M0,52.436 L66.532,52.436" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M6.766,9.585 L22.553,9.585 L22.553,52.436 L6.766,52.436 L6.766,9.585 Z M43.979,9.585 L59.766,9.585 L59.766,52.436 L43.979,52.436 L43.979,9.585 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" points="22.988 0.294 43.398 0.294 43.398 52.545 22.988 52.545"></polygon>
+                <path d="M17.29,15.817 L13.025,15.817 L17.29,15.817 Z M17.29,20.375 L13.025,20.375 L17.29,20.375 Z M17.29,24.934 L13.025,24.934 L17.29,24.934 Z M17.29,29.493 L13.025,29.493 L17.29,29.493 Z M17.29,34.051 L13.025,34.051 L17.29,34.051 Z M17.29,38.61 L13.025,38.61 L17.29,38.61 Z M17.29,43.168 L13.025,43.168 L17.29,43.168 Z M53.741,15.817 L49.46,15.817 L53.741,15.817 Z M53.741,20.375 L49.46,20.375 L53.741,20.375 Z M53.741,24.934 L49.46,24.934 L53.741,24.934 Z M53.741,29.493 L49.46,29.493 L53.741,29.493 Z M53.741,34.051 L49.46,34.051 L53.741,34.051 Z M53.741,38.61 L49.46,38.61 L53.741,38.61 Z M53.741,43.168 L49.46,43.168 L53.741,43.168 Z M35.334,7.926 L31.07,7.926 L35.334,7.926 Z M35.334,12.484 L31.07,12.484 L35.334,12.484 Z M35.334,17.043 L31.07,17.043 L35.334,17.043 Z M35.334,21.601 L31.07,21.601 L35.334,21.601 Z M35.334,26.16 L31.07,26.16 L35.334,26.16 Z M35.334,30.719 L31.07,30.719 L35.334,30.719 Z M35.334,35.277 L31.07,35.277 L35.334,35.277 Z M35.334,39.836 L31.07,39.836 L35.334,39.836 Z M29.791,45.724 L36.612,45.724 L36.612,52.545 L29.791,52.545 L29.791,45.724 Z" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

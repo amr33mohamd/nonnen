@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="54px" viewBox="0 0 52 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Thrifty</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Thrifty" transform="translate(1.000000, 0.000000)">
+            <g id="Group">
+                <path d="M29.395,48.196 C29.395,48.196 29.995,51.896 31.895,52.896 L37.294,52.896 L37.294,46.096" id="Path" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M40.593,21.5 C40.293,17.702 42.893,12.003 42.893,12.003 L40.593,12.003 C40.593,12.003 38.993,16.202 38.393,19.301" id="Path" fill="#E6E7E8" fill-rule="nonzero"></path>
+                <path d="M32.994,17.002 C32.994,17.002 35.594,11.202 42.993,11.902 C42.993,11.902 40.493,17.602 40.693,21.401" id="Path" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M19.597,20.601 C19.597,20.601 21.797,19.501 24.596,19.501 C27.396,19.501 30.195,20.601 30.195,20.601" id="Path" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" stroke="#E0B490" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" cx="24.896" cy="12.003" r="3.499"></circle>
+                <path d="M24.896,5.804 L24.896,0.104 M27.695,6.204 L27.695,1.404 M21.996,6.204 L21.996,1.404 M5.1,28 C2.5,28 0,25.4 0,22.2 C0,19.001 1.9,16.402 5.1,16.402" id="Shape" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M5.1,16.502 C5.999,16.502 6.599,17.202 6.599,18.002 C6.599,18.802 5.899,19.502 5.099,19.502" id="Path" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M10.598,44.997 C10.598,46.697 10.898,50.796 13.698,52.895 L19.497,52.895 L19.497,48.196" id="Path" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M20.296,16.602 C11.598,16.602 4.5,23.7 4.5,32.399 C4.5,41.097 11.599,48.196 20.297,48.196 L29.396,48.196 C33.996,48.196 38.094,46.196 40.994,43.097 C40.994,43.097 43.894,39.997 49.992,39.997 L49.992,30.5 C49.992,30.5 45.593,29.9 43.993,26.301 C41.593,20.602 35.995,16.603 29.396,16.603" id="Path" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="39.293" cy="27.7" r="1.8"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
