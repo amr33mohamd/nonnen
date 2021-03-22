@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('ar.layout')
 @section('content')
 
 
@@ -16,7 +16,7 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="stylesheet" href="	https://7basis.com/wp-content/themes/dt-the7/fonts/icomoon-the7-font/icomoon-the7-font.css">
 
-	<script id="facebook-jssdk" src="./Explore – Nooneen Design_files/xfbml.customerchat.js"></script>
+	<script id="facebook-jssdk" src="/Explore – Nooneen Design_files/xfbml.customerchat.js"></script>
 	<script type="text/javascript">
 		if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
 			var originalAddEventListener = EventTarget.prototype.addEventListener,
@@ -45,7 +45,7 @@
 	<title>Explore – Nooneen Design</title>
 	<link rel="stylesheet" href="	https://7basis.com/wp-content/themes/dt-the7/fonts/icomoon-the7-font/icomoon-the7-font.css">
 
-	<link href="./fontawesome-free-5.15.1-web/css/all.min.css" rel="stylesheet">
+	<link href="/fontawesome-free-5.15.1-web/css/all.min.css" rel="stylesheet">
 	<!--load all styles -->
 
 	<meta name="robots" content="noindex,nofollow">
@@ -108,7 +108,7 @@
 			})), (r = t.source || {}).concatemoji ? d(r.concatemoji) : r.wpemoji && r.twemoji && (d(r.twemoji), d(r.wpemoji)))
 		}(window, document, window._wpemojiSettings);
 	</script>
-	<script src="./Explore – Nooneen Design_files/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+	<script src="/Explore – Nooneen Design_files/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 	<style type="text/css">
 		img.wp-smiley,
 		img.emoji {
@@ -123,19 +123,19 @@
 			padding: 0 !important;
 		}
 	</style>
-	<link rel="stylesheet" id="wp-block-library-css" href="./Explore – Nooneen Design_files/style.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="wp-block-library-theme-css" href="./Explore – Nooneen Design_files/theme.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="wc-block-vendors-style-css" href="./Explore – Nooneen Design_files/vendors-style.css" type="text/css" media="all">
-	<link rel="stylesheet" id="wc-block-style-css" href="./Explore – Nooneen Design_files/style.css" type="text/css" media="all">
-	<link rel="stylesheet" id="contact-form-7-css" href="./Explore – Nooneen Design_files/styles.css" type="text/css" media="all">
-	<link rel="stylesheet" id="dq-fontawesome-css" href="./Explore – Nooneen Design_files/pro.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="dq-slick-css-css" href="./Explore – Nooneen Design_files/slick.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="dq-slick-theme-css-css" href="./Explore – Nooneen Design_files/slick-theme.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="dq-style-css" href="./Explore – Nooneen Design_files/style(1).css" type="text/css" media="all">
-	<link rel="stylesheet" id="dq-responsive-style-css" href="./Explore – Nooneen Design_files/responsive.css" type="text/css" media="all">
-	<link rel="stylesheet" id="pafe-extension-style-css" href="./Explore – Nooneen Design_files/extension.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="pafe-woocommerce-sales-funnels-style-css" href="./Explore – Nooneen Design_files/woocommerce-sales-funnels.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="rs-plugin-settings-css" href="./Explore – Nooneen Design_files/rs6.css" type="text/css" media="all">
+	<link rel="stylesheet" id="wp-block-library-css" href="/Explore – Nooneen Design_files/style.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="wp-block-library-theme-css" href="/Explore – Nooneen Design_files/theme.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="wc-block-vendors-style-css" href="/Explore – Nooneen Design_files/vendors-style.css" type="text/css" media="all">
+	<link rel="stylesheet" id="wc-block-style-css" href="/Explore – Nooneen Design_files/style.css" type="text/css" media="all">
+	<link rel="stylesheet" id="contact-form-7-css" href="/Explore – Nooneen Design_files/styles.css" type="text/css" media="all">
+	<link rel="stylesheet" id="dq-fontawesome-css" href="/Explore – Nooneen Design_files/pro.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="dq-slick-css-css" href="/Explore – Nooneen Design_files/slick.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="dq-slick-theme-css-css" href="/Explore – Nooneen Design_files/slick-theme.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="dq-style-css" href="/Explore – Nooneen Design_files/style(1).css" type="text/css" media="all">
+	<link rel="stylesheet" id="dq-responsive-style-css" href="/Explore – Nooneen Design_files/responsive.css" type="text/css" media="all">
+	<link rel="stylesheet" id="pafe-extension-style-css" href="/Explore – Nooneen Design_files/extension.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="pafe-woocommerce-sales-funnels-style-css" href="/Explore – Nooneen Design_files/woocommerce-sales-funnels.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="rs-plugin-settings-css" href="/Explore – Nooneen Design_files/rs6.css" type="text/css" media="all">
 	<style id="rs-plugin-settings-inline-css" type="text/css">
 		#rs-demo-id {}
 	</style>
@@ -144,34 +144,34 @@
 			visibility: visible;
 		}
 	</style>
-	<link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="./Explore – Nooneen Design_files/style(2).css" type="text/css" media="all">
-	<link rel="stylesheet" id="wpml-menu-item-0-css" href="./Explore – Nooneen Design_files/style(3).css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-icons-css" href="./Explore – Nooneen Design_files/elementor-icons.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-animations-css" href="./Explore – Nooneen Design_files/animations.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-frontend-css" href="./Explore – Nooneen Design_files/frontend.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-pro-css" href="./Explore – Nooneen Design_files/frontend.min(1).css" type="text/css" media="all">
-	<link rel="stylesheet" id="premium-pro-css" href="./Explore – Nooneen Design_files/premium-addons.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-global-css" href="./Explore – Nooneen Design_files/global.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-post-224-css" href="./Explore – Nooneen Design_files/post-224.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-post-573-css" href="./Explore – Nooneen Design_files/post-573.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-post-559-css" href="./Explore – Nooneen Design_files/post-559.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-post-616-css" href="./Explore – Nooneen Design_files/post-616.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-post-120-css" href="./Explore – Nooneen Design_files/post-120.css" type="text/css" media="all">
-	<link rel="stylesheet" id="dt-web-fonts-css" href="./Explore – Nooneen Design_files/css" type="text/css" media="all">
-	<link rel="stylesheet" id="dt-main-css" href="./Explore – Nooneen Design_files/main.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="the7-font-css" href="./Explore – Nooneen Design_files/icomoon-the7-font.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="the7-core-css" href="./Explore – Nooneen Design_files/post-type.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="dt-custom-css" href="./Explore – Nooneen Design_files/custom.css" type="text/css" media="all">
-	<link rel="stylesheet" id="wc-dt-custom-css" href="./Explore – Nooneen Design_files/wc-dt-custom.css" type="text/css" media="all">
-	<link rel="stylesheet" id="dt-media-css" href="./Explore – Nooneen Design_files/media.css" type="text/css" media="all">
-	<link rel="stylesheet" id="the7-mega-menu-css" href="./Explore – Nooneen Design_files/mega-menu.css" type="text/css" media="all">
-	<link rel="stylesheet" id="the7-elements-css" href="./Explore – Nooneen Design_files/post-type-dynamic.css" type="text/css" media="all">
-	<link rel="stylesheet" id="style-css" href="./Explore – Nooneen Design_files/style(4).css" type="text/css" media="all">
-	<link rel="stylesheet" id="the7-elementor-global-css" href="./Explore – Nooneen Design_files/elementor-global.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="ecs-styles-css" href="./Explore – Nooneen Design_files/ecs-style.css" type="text/css" media="all">
-	<link rel="stylesheet" id="google-fonts-1-css" href="./Explore – Nooneen Design_files/css(1)" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-icons-shared-0-css" href="./Explore – Nooneen Design_files/fontawesome.min.css" type="text/css" media="all">
-	<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="./Explore – Nooneen Design_files/solid.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="/Explore – Nooneen Design_files/style(2).css" type="text/css" media="all">
+	<link rel="stylesheet" id="wpml-menu-item-0-css" href="/Explore – Nooneen Design_files/style(3).css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-icons-css" href="/Explore – Nooneen Design_files/elementor-icons.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-animations-css" href="/Explore – Nooneen Design_files/animations.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-frontend-css" href="/Explore – Nooneen Design_files/frontend.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-pro-css" href="/Explore – Nooneen Design_files/frontend.min(1).css" type="text/css" media="all">
+	<link rel="stylesheet" id="premium-pro-css" href="/Explore – Nooneen Design_files/premium-addons.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-global-css" href="/Explore – Nooneen Design_files/global.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-post-224-css" href="/Explore – Nooneen Design_files/post-224.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-post-573-css" href="/Explore – Nooneen Design_files/post-573.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-post-559-css" href="/Explore – Nooneen Design_files/post-559.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-post-616-css" href="/Explore – Nooneen Design_files/post-616.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-post-120-css" href="/Explore – Nooneen Design_files/post-120.css" type="text/css" media="all">
+	<link rel="stylesheet" id="dt-web-fonts-css" href="/Explore – Nooneen Design_files/css" type="text/css" media="all">
+	<link rel="stylesheet" id="dt-main-css" href="/Explore – Nooneen Design_files/main.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="the7-font-css" href="/Explore – Nooneen Design_files/icomoon-the7-font.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="the7-core-css" href="/Explore – Nooneen Design_files/post-type.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="dt-custom-css" href="/Explore – Nooneen Design_files/custom.css" type="text/css" media="all">
+	<link rel="stylesheet" id="wc-dt-custom-css" href="/Explore – Nooneen Design_files/wc-dt-custom.css" type="text/css" media="all">
+	<link rel="stylesheet" id="dt-media-css" href="/Explore – Nooneen Design_files/media.css" type="text/css" media="all">
+	<link rel="stylesheet" id="the7-mega-menu-css" href="/Explore – Nooneen Design_files/mega-menu.css" type="text/css" media="all">
+	<link rel="stylesheet" id="the7-elements-css" href="/Explore – Nooneen Design_files/post-type-dynamic.css" type="text/css" media="all">
+	<link rel="stylesheet" id="style-css" href="/Explore – Nooneen Design_files/style(4).css" type="text/css" media="all">
+	<link rel="stylesheet" id="the7-elementor-global-css" href="/Explore – Nooneen Design_files/elementor-global.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="ecs-styles-css" href="/Explore – Nooneen Design_files/ecs-style.css" type="text/css" media="all">
+	<link rel="stylesheet" id="google-fonts-1-css" href="/Explore – Nooneen Design_files/css(1)" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-icons-shared-0-css" href="/Explore – Nooneen Design_files/fontawesome.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="/Explore – Nooneen Design_files/solid.min.css" type="text/css" media="all">
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var papro_addons = {
@@ -183,8 +183,8 @@
 		};
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/jquery.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/jquery-migrate.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/jquery.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/jquery-migrate.min.js"></script>
 	<script type="text/javascript">
 		window.scopes_array = [];
 		window.backend = 0;
@@ -360,7 +360,7 @@
 			jQuery.cachedAssets(url);
 		});
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/jquery.cookie.js"></script>
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var wpml_cookies = {
@@ -379,9 +379,9 @@
 		};
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/language-cookie.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/slick.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/scripts.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/language-cookie.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/slick.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/scripts.js"></script>
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var ajax_object = {
@@ -390,11 +390,11 @@
 		var plugin_dir_url = ["http:\/\/watrax.com\/2020\/opfor\/july\/ali\/wp-content\/plugins\/design_quiz\/"];
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/ajax.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/extension.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/woocommerce-sales-funnels.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/rbtools.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/rs6.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/ajax.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/extension.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/woocommerce-sales-funnels.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/rbtools.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/rs6.min.js"></script>
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var dtLocal = {
@@ -514,7 +514,7 @@
 		};
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/above-the-fold.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/above-the-fold.min.js"></script>
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var ecs_ajax_params = {
@@ -523,8 +523,8 @@
 		};
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/ecs_ajax_pagination.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/ecs.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/ecs_ajax_pagination.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/ecs.js"></script>
 	<link rel="https://api.w.org/" href="http://watrax.com/2020/opfor/july/ali/wp-json/">
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://watrax.com/2020/opfor/july/ali/xmlrpc.php?rsd">
 	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://watrax.com/2020/opfor/july/ali/wp-includes/wlwmanifest.xml">
@@ -666,13 +666,13 @@
 														<div class="elementor-widget-wrap">
 															<div class="elementor-element elementor-element-5f26b6f4 elementor-widget elementor-widget-heading" data-id="5f26b6f4" data-element_type="widget" data-widget_type="heading.default">
 																<div class="elementor-widget-container">
-																	<h1 class="elementor-heading-title elementor-size-default">Our Main Gallery</h1>
+																	<h1 class="elementor-heading-title elementor-size-default">معرض اعمالنا</h1>
 																</div>
 															</div>
 															<div class="elementor-element elementor-element-5c1d1aec elementor-widget elementor-widget-text-editor" data-id="5c1d1aec" data-element_type="widget" data-widget_type="text-editor.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-text-editor elementor-clearfix">
-																		<p>Interior Design</p>
+																		<p>التصميم الداخلي</p>
 																	</div>
 																</div>
 															</div>
@@ -692,14 +692,13 @@
 														<div class="elementor-widget-wrap">
 															<div class="elementor-element elementor-element-331b02aa elementor-widget elementor-widget-heading" data-id="331b02aa" data-element_type="widget" data-widget_type="heading.default">
 																<div class="elementor-widget-container">
-																	<h3 class="elementor-heading-title elementor-size-default">Lounge Chairs</h3>
+																	<h3 class="elementor-heading-title elementor-size-default">كرسي</h3>
 																</div>
 															</div>
 															<div class="elementor-element elementor-element-648dbcf elementor-widget elementor-widget-text-editor" data-id="648dbcf" data-element_type="widget" data-widget_type="text-editor.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-text-editor elementor-clearfix">
-																		<p>Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet
-																			ligula. Nulla quis lorem ut libero malesuada feugiat. Pellentesque in ipsum id orci porta dapibus.</p>
+																		<p>البساطه بكل معانيها في تصميم حديث بارجل طويله نحيفه من خشب الجوز، فهي تقدم لمسه متناغمه مع المساحه الموضوعه فيها. يصاحبها جلد طبيعي بنكهه فاتحه</p>
 																	</div>
 																</div>
 															</div>
@@ -732,7 +731,7 @@
 															<div class="elementor-element elementor-element-1c0d68f7 elementor-widget elementor-widget-image" data-id="1c0d68f7" data-element_type="widget" data-widget_type="image.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-image">
-																		<img width="1000" height="900" src="https://i.ibb.co/mNkK1TX/shutterstock-575914609.jpg" class="attachment-full size-full" alt=""
+																		<img width="1000" height="900" src="https://i.ibb.co/CPfWzfL/shutterstock-483113125.jpg" class="attachment-full size-full" alt=""
 																			sizes="(max-width: 1000px) 100vw, 1000px"> </div>
 																</div>
 															</div>
@@ -744,14 +743,13 @@
 														<div class="elementor-widget-wrap">
 															<div class="elementor-element elementor-element-3d879c26 elementor-widget elementor-widget-heading" data-id="3d879c26" data-element_type="widget" data-widget_type="heading.default">
 																<div class="elementor-widget-container">
-																	<h3 class="elementor-heading-title elementor-size-default">Decor Placements</h3>
+																	<h3 class="elementor-heading-title elementor-size-default">طاوله</h3>
 																</div>
 															</div>
 															<div class="elementor-element elementor-element-e8de68e elementor-widget elementor-widget-text-editor" data-id="e8de68e" data-element_type="widget" data-widget_type="text-editor.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-text-editor elementor-clearfix">
-																		<p>Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet
-																			ligula. Nulla quis lorem ut libero malesuada feugiat. Pellentesque in ipsum id orci porta dapibus.&nbsp;</p>
+																		<p>فكره الطاوله ان تخلق جو ناعم بارجل مخلوطه بماده الايبوكسي و الخشب الناعم بشكل دائري لتظهر بمنظر مختلف و جذاب في الجهه الاخري لديك زاويه صلبه و عريضه</p>
 																	</div>
 																</div>
 															</div>
@@ -828,14 +826,13 @@
 														<div class="elementor-widget-wrap">
 															<div class="elementor-element elementor-element-6afd53c elementor-widget elementor-widget-heading" data-id="6afd53c" data-element_type="widget" data-widget_type="heading.default">
 																<div class="elementor-widget-container">
-																	<h3 class="elementor-heading-title elementor-size-default">Our Gallery</h3>
+																	<h3 class="elementor-heading-title elementor-size-default">معرض اعمالنا</h3>
 																</div>
 															</div>
 															<div class="elementor-element elementor-element-a426f25 elementor-widget elementor-widget-text-editor" data-id="a426f25" data-element_type="widget" data-widget_type="text-editor.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-text-editor elementor-clearfix">
-																		<p>Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit
-																			amet.</p>
+																	<p>بامكانك الغوص في قسم المعرض و استعراض ما تحلو به نفسك من تصاميم مختاره منا بذوق رفيع و ان اعجبك شئ فنحن بخدمتك.</p>
 																	</div>
 																</div>
 															</div>
@@ -887,8 +884,8 @@
 		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 		document.body.className = c;
 	</script>
-	<link rel="stylesheet" id="elementor-gallery-css" href="./Explore – Nooneen Design_files/e-gallery.min.css" type="text/css" media="all">
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/main.min.js"></script>
+	<link rel="stylesheet" id="elementor-gallery-css" href="/Explore – Nooneen Design_files/e-gallery.min.css" type="text/css" media="all">
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/main.min.js"></script>
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var wpcf7 = {
@@ -899,8 +896,8 @@
 		};
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/scripts(1).js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/jquery.blockUI.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/scripts(1).js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/jquery.blockUI.min.js"></script>
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var wc_add_to_cart_params = {
@@ -913,8 +910,8 @@
 		};
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/add-to-cart.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/js.cookie.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/add-to-cart.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/js.cookie.min.js"></script>
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var woocommerce_params = {
@@ -923,7 +920,7 @@
 		};
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/woocommerce.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/woocommerce.min.js"></script>
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var wc_cart_fragments_params = {
@@ -935,13 +932,13 @@
 		};
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/cart-fragments.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/wp-embed.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/imagesloaded.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/e-gallery.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/jquery.smartmenus.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/frontend-modules.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/jquery.sticky.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/cart-fragments.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/wp-embed.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/imagesloaded.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/e-gallery.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/jquery.smartmenus.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/frontend-modules.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/jquery.sticky.min.js"></script>
 	<script type="text/javascript">
 		var ElementorProFrontendConfig = {
 			"ajaxurl": "http:\/\/watrax.com\/2020\/opfor\/july\/ali\/wp-admin\/admin-ajax.php",
@@ -1034,12 +1031,12 @@
 			}
 		};
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/frontend.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/position.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/dialog.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/waypoints.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/swiper.min.js"></script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/share-link.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/frontend.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/position.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/dialog.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/waypoints.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/swiper.min.js"></script>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/share-link.min.js"></script>
 	<script type="text/javascript">
 		var elementorFrontendConfig = {
 			"environmentMode": {
@@ -1086,7 +1083,7 @@
 			}
 		};
 	</script>
-	<script type="text/javascript" src="./Explore – Nooneen Design_files/frontend.min(2).js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+	<script type="text/javascript" src="/Explore – Nooneen Design_files/frontend.min(2).js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
 	<div class="pafe-break-point" data-pafe-break-point-md="768" data-pafe-break-point-lg="1025" data-pafe-ajax-url="http://watrax.com/2020/opfor/july/ali/wp-admin/admin-ajax.php"></div>
 	<div data-pafe-form-builder-tinymce-upload="http://watrax.com/2020/opfor/july/ali/wp-content/plugins/piotnet-addons-for-elementor-pro/inc/tinymce/tinymce-upload.php"></div>
 	<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">

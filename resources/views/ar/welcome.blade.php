@@ -1,12 +1,12 @@
 
-@extends('layout')
+@extends('ar.layout')
 @section('content')
 
 <body
 	class="home page-template-default page page-id-10 wp-custom-logo wp-embed-responsive theme-techreshape_v4.3 the7-core-ver-2.5.0.1 woocommerce-js slideshow-on dt-responsive-on right-mobile-menu-close-icon ouside-menu-close-icon mobile-hamburger-close-bg-enable mobile-hamburger-close-bg-hover-enable  fade-medium-mobile-menu-close-icon fade-medium-menu-close-icon srcset-enabled btn-flat custom-btn-color custom-btn-hover-color phantom-sticky phantom-shadow-decoration phantom-custom-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style the7-ver-4.3 elementor-default elementor-page elementor-page-10 elementor-page-573 elementor-page-566 elementor-page-560 no-mobile closed-overlay-mobile-header"
 	data-elementor-device-mode="desktop" data-new-gr-c-s-check-loaded="14.990.0" data-gr-ext-installed="">
 	<!-- The7 4.3 -->
-  <link rel="stylesheet" id="theplus-front-css-css" href="./Nooneen Design_files/theplus-post-10.min.css" type="text/css" media="all">
+  <link rel="stylesheet" id="theplus-front-css-css" href="/Nooneen Design_files/theplus-post-10.min.css" type="text/css" media="all">
 
   <style id="the7-page-content-style">
     #main {
@@ -24,14 +24,15 @@
       display: none;
 }
 body{
-	font-family: 'Amiri', serif;
+	direction: rtl;
 }
+
   </style>
   <div id="main-slideshow" class="empty-slider">
     <!-- START Main slider REVOLUTION SLIDER 6.2.10 -->
     <rs-fullwidth-wrap id="rev_slider_1_1_forcefullwidth" style="margin-top:90px;margin-bottom:0px;">
       <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background: transparent; padding: 0px; margin: 0px auto; visibility: visible; position: absolute; overflow: visible; width: 1664px; left: 0px; height: 620px;">
-        <div id="rev_slider_1_1" style="height: 620px; max-height: 620px; margin-bottom: 0px; margin-top: 0px;" data-version="6.2.10" data-idcheck="true" class="revslider-initialised rev_redraw_on_blurfocus" data-slideactive="rs-1">
+        <div id="rev_slider_1_1" style="height: 620px; max-height: 620px; margin-bottom: 0px; margin-top: 0px;text-align:center;" data-version="6.2.10" data-idcheck="true" class="revslider-initialised rev_redraw_on_blurfocus" data-slideactive="rs-1">
 
 
 
@@ -49,28 +50,24 @@ body{
 
               <!--
             -->
-              <div class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 238px; top: 138px; z-index: 5;">
-                <rs-loop-wrap style="position:absolute;display:block;">
-                  <rs-mask-wrap style="position: absolute; display: block; overflow: visible;">
+              <!-- <div class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 50%;right: 50%; top: 138px; z-index: 5;"> -->
                     <div id="slider-1-slide-1-layer-0" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:c;xo:-147px;y:c;yo:-61px;" data-text="w:normal;s:64;l:74;fw:700;" data-dim="w:893px;" data-frame_999="o:0;st:w;"
-                      style="z-index: 5; font-family: &quot;Playfair Display&quot;; text-transform: capitalize; height: auto; color: rgb(255, 255, 255); text-decoration: none; white-space: normal; width: 893px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: left; line-height: 74px; letter-spacing: 0px; font-weight: 700; font-size: 64px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;"
-                      class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">Dream Home Might<br>
-                      be Closer than<br>
-                      You Think.
+                      style="z-index: 5; font-family: &quot;Playfair Display&quot;; text-transform: capitalize; height: auto; color: rgb(255, 255, 255); text-decoration: none; white-space: normal;top: 138px;position: absolute;width: 100%; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: center; line-height: 74px; letter-spacing: 0px; font-weight: 700; font-size: 64px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;"
+                      class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">منزل احلامك<br>
+                      اقرب لك مما تتخيل<br>
+                      هنا بيت احلامك !
                     </div>
-                  </rs-mask-wrap>
-                </rs-loop-wrap>
-              </div>
+              <!-- </div> -->
               <!--
 
             -->
-              <rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 237px; top: 389px; z-index: 6;">
+              <rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 50%; top: 389px; z-index: 6;">
                 <rs-loop-wrap style="position:absolute;display:block;">
-                  <rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><a id="slider-1-slide-1-layer-1" class="rs-layer rev-btn" href="/quiz" target="_self" rel="nofollow"
+                  <rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><a id="slider-1-slide-1-layer-1" class="rs-layer rev-btn" href="/ar/quiz" target="_self" rel="nofollow"
                       data-type="button" data-color="#000000" data-rsp_ch="on" data-xy="x:25px;y:c;yo:102px;" data-text="w:normal;s:17;l:45;fw:500;" data-dim="minh:0px;" data-padding="r:25;l:25;" data-frame_999="o:0;st:w;"
                       data-frame_hover="c:#ffe0e0;bgc:#000;bor:0px,0px,0px,0px;bri:120%;"
                       style="z-index: 6;padding: 15px;background-color: rgb(255, 255, 255); font-family: Raleway; height: auto; width: auto; color: rgb(0, 0, 0); text-decoration: none; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: left; line-height: 45px; letter-spacing: 0px; font-weight: 500; font-size: 17px; padding-left: 25px; padding-right: 25px; filter: blur(0px) grayscale(0%) brightness(100%); transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;"
-                      data-idcheck="true" data-stylerecorder="true" data-initialised="true">Style Quiz
+                      data-idcheck="true" data-stylerecorder="true" data-initialised="true">اكتشف نمطك
                     </a></rs-mask-wrap>
                 </rs-loop-wrap>
               </rs-layer-wrap>
@@ -170,7 +167,7 @@ body{
 														<div class="elementor-widget-wrap">
 															<div class="elementor-element elementor-element-b657e6a elementor-widget elementor-widget-heading" data-id="b657e6a" data-element_type="widget" data-widget_type="heading.default">
 																<div class="elementor-widget-container">
-																	<h2 class="elementor-heading-title elementor-size-default">How Its Work ?</h2>
+																	<h2 class="elementor-heading-title elementor-size-default">خطوات العمل </h2>
 																</div>
 															</div>
 															<section class="elementor-element elementor-element-2cd7d54 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="2cd7d54"
@@ -192,14 +189,14 @@ body{
 																					<div class="elementor-element elementor-element-0dd563f animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="0dd563f" data-element_type="widget"
 																						data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:1700}" data-widget_type="heading.default">
 																						<div class="elementor-widget-container">
-																							<h2 class="elementor-heading-title elementor-size-default">Tell us what you need</h2>
+																							<h2 class="elementor-heading-title elementor-size-default">اخبرنا بما تريد</h2>
 																						</div>
 																					</div>
 																					<div class="elementor-element elementor-element-b9ac759 animated-slow elementor-invisible elementor-widget elementor-widget-text-editor" data-id="b9ac759" data-element_type="widget"
 																						data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:2400}" data-widget_type="text-editor.default">
 																						<div class="elementor-widget-container">
 																							<div class="elementor-text-editor elementor-clearfix">
-																								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula odio tortor, a sollicitudin lectus ullamcorper at.</p>
+																								<p>احكي لنا بما تحلم يان تراه في جعبه سكنك و نحن هنا اذن صاغيه ل نلبي حاجتك و نصنع لم تصميما باجمل من ما تحلم به</p>
 																							</div>
 																						</div>
 																					</div>
@@ -221,14 +218,14 @@ body{
 																					<div class="elementor-element elementor-element-188aa64 animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="188aa64" data-element_type="widget"
 																						data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:3800}" data-widget_type="heading.default">
 																						<div class="elementor-widget-container">
-																							<h2 class="elementor-heading-title elementor-size-default">Collaborate online</h2>
+																							<h2 class="elementor-heading-title elementor-size-default">بحر من التصاميم</h2>
 																						</div>
 																					</div>
 																					<div class="elementor-element elementor-element-5848147 animated-slow elementor-invisible elementor-widget elementor-widget-text-editor" data-id="5848147" data-element_type="widget"
 																						data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:4500}" data-widget_type="text-editor.default">
 																						<div class="elementor-widget-container">
 																							<div class="elementor-text-editor elementor-clearfix">
-																								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula odio tortor, a sollicitudin lectus ullamcorper at.</p>
+																								<p>نمتلم مجموعه فريده من المصممين الموهوبين وفي اعماقهم الكثير من التصاميم الفريده التي تسر النفس و الناظرين</p>
 																							</div>
 																						</div>
 																					</div>
@@ -243,21 +240,21 @@ body{
 																						data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:5200}" data-widget_type="image.default">
 																						<div class="elementor-widget-container">
 																							<div class="elementor-image">
-																								<img width="200" height="200" src="./Nooneen Design_files/three.png" class="attachment-large size-large" alt=""
+																								<img width="200" height="200" src="/Nooneen Design_files/three.png" class="attachment-large size-large" alt=""
 																									sizes="(max-width: 200px) 100vw, 200px"> </div>
 																						</div>
 																					</div>
 																					<div class="elementor-element elementor-element-02604d9 animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="02604d9" data-element_type="widget"
 																						data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:5900}" data-widget_type="heading.default">
 																						<div class="elementor-widget-container">
-																							<h2 class="elementor-heading-title elementor-size-default">Get the V.I.P. treatment</h2>
+																							<h2 class="elementor-heading-title elementor-size-default">معرض الاحلام</h2>
 																						</div>
 																					</div>
 																					<div class="elementor-element elementor-element-84ac9a7 animated-slow elementor-invisible elementor-widget elementor-widget-text-editor" data-id="84ac9a7" data-element_type="widget"
 																						data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:6600}" data-widget_type="text-editor.default">
 																						<div class="elementor-widget-container">
 																							<div class="elementor-text-editor elementor-clearfix">
-																								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula odio tortor, a sollicitudin lectus ullamcorper at.</p>
+																								<p>بامكانك الغوص في قسم المعرض و استعراض ما تحلو به نفسك من تصاميم مختاره منا بذوق رفيع و ان اعجبك شئ فنحن بخدمتك.</p>
 																							</div>
 																						</div>
 																					</div>
@@ -295,15 +292,13 @@ body{
 														<div class="elementor-widget-wrap">
 															<div class="elementor-element elementor-element-714a569 elementor-widget elementor-widget-heading" data-id="714a569" data-element_type="widget" data-widget_type="heading.default">
 																<div class="elementor-widget-container">
-																	<h2 class="elementor-heading-title elementor-size-default">tell us what you need</h2>
+																	<h2 class="elementor-heading-title elementor-size-default">دعنا نساعدك ب الاختيار</h2>
 																</div>
 															</div>
 															<div class="elementor-element elementor-element-4ad4ed7 elementor-widget elementor-widget-text-editor" data-id="4ad4ed7" data-element_type="widget" data-widget_type="text-editor.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-text-editor elementor-clearfix">
-																		<p><span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula odio
-																				tortor, a sollicitudin lectus ullamcorper at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam sed commodo enim. Lorem ipsum dolor sit amet, consectetur
-																				adipiscing elit. Morbi mollis tellus a laoreet pretium.</span><br></p>
+																		<p><span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;">سهلناها لك ، خلنا نساعدك ولا تشيل هم .. فقط من خلال نموزجنا البسيط الخفيف بيساعدك تختار الشئ الانسب لك الان. مع نموذج الاستشاره الذكي تستطيع الحصول هلي النصيحه في اي وقت ولايي غرفه</span><br></p>
 																	</div>
 																</div>
 															</div>
@@ -322,15 +317,13 @@ body{
 														<div class="elementor-widget-wrap">
 															<div class="elementor-element elementor-element-fae03a1 elementor-widget elementor-widget-heading" data-id="fae03a1" data-element_type="widget" data-widget_type="heading.default">
 																<div class="elementor-widget-container">
-																	<h2 class="elementor-heading-title elementor-size-default">more designs</h2>
+																	<h2 class="elementor-heading-title elementor-size-default">بحر من التصاميم</h2>
 																</div>
 															</div>
 															<div class="elementor-element elementor-element-1112ecc elementor-widget elementor-widget-text-editor" data-id="1112ecc" data-element_type="widget" data-widget_type="text-editor.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-text-editor elementor-clearfix">
-																		<p><span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula odio
-																				tortor, a sollicitudin lectus ullamcorper at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam sed commodo enim. Lorem ipsum dolor sit amet, consectetur
-																				adipiscing elit. Morbi mollis tellus a laoreet pretium.</span><br></p>
+																		<p><span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;">نمتلم مجموعه فريده من المصممين الموهوبين وفي اعماقهم الكثير من التصاميم الفريده التي تسر النفس و الناظرين</span><br></p>
 																	</div>
 																</div>
 															</div>
@@ -363,22 +356,22 @@ body{
 														<div class="elementor-widget-wrap">
 															<div class="elementor-element elementor-element-715fd27 elementor-widget elementor-widget-heading" data-id="715fd27" data-element_type="widget" data-widget_type="heading.default">
 																<div class="elementor-widget-container">
-																	<h2 class="elementor-heading-title elementor-size-default">our gallery</h2>
+																	<h2 class="elementor-heading-title elementor-size-default">معرض اعمالنا</h2>
 																</div>
 															</div>
 															<div class="elementor-element elementor-element-4868986 elementor-widget elementor-widget-text-editor" data-id="4868986" data-element_type="widget" data-widget_type="text-editor.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-text-editor elementor-clearfix">
-																		<p><span style="color: #000000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula odio tortor, a sollicitudin lectus ullamcorper at. Pellentesque habitant morbi tristique.</span></p>
+																		<p><span style="color: #000000;">بامكانك الغوص في قسم المعرض و استعراض ما تحلو به نفسك من تصاميم مختاره منا بذوق رفيع و ان اعجبك شئ فنحن بخدمتك </span></p>
 																	</div>
 																</div>
 															</div>
 															<div class="elementor-element elementor-element-cbcbfad elementor-widget elementor-widget-button" data-id="cbcbfad" data-element_type="widget" data-widget_type="button.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-button-wrapper">
-																		<a href="http://watrax.com/2020/opfor/july/ali/quiz/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+																		<a href="/ar/quiz/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 																			<span class="elementor-button-content-wrapper">
-																				<span class="elementor-button-text">Find Your Style</span>
+																				<span class="elementor-button-text">اكتشف نمطك</span>
 																			</span>
 																		</a>
 																	</div>
@@ -397,11 +390,11 @@ body{
 																		style="visibility: visible; width: 360px;">
 																		<div class="before-after-inner" style="width: 360px; height: 367px;">
 																			<div class="before-after-image image-before" style="position: absolute; width: 180px;">
-																				<img class="image-before-wrap" src="./Nooneen Design_files/6e547b67-f2c5-4ac9-8627-15435857e499.png" alt="briana" style="max-width: 360px; width: 360px;">
+																				<img class="image-before-wrap" src="/Nooneen Design_files/6e547b67-f2c5-4ac9-8627-15435857e499.png" alt="briana" style="max-width: 360px; width: 360px;">
 																				<div class="before_after_label before_label_text">Before</div>
 																			</div>
 																			<div class="before-after-image image-after" style="position: absolute; width: auto;">
-																				<img class="image-after-wrap" src="./Nooneen Design_files/346090e8-3773-4588-a376-0fea63ddda72.png" alt="Eclectic, Transitional Patio" style="max-width: 360px; width: 360px;">
+																				<img class="image-after-wrap" src="/Nooneen Design_files/346090e8-3773-4588-a376-0fea63ddda72.png" alt="Eclectic, Transitional Patio" style="max-width: 360px; width: 360px;">
 																				<div class="before_after_label after_label_text">After</div>
 																			</div>
 
@@ -423,11 +416,11 @@ body{
 																		style="visibility: visible; width: 360px;">
 																		<div class="before-after-inner" style="width: 360px; height: 367px;">
 																			<div class="before-after-image image-before" style="position: absolute; width: 180px;">
-																				<img class="image-before-wrap" src="./Nooneen Design_files/140dfcf5-76cc-41cb-85dd-9c4559450184.png" alt="140dfcf5-76cc-41cb-85dd-9c4559450184" style="max-width: 360px; width: 360px;">
+																				<img class="image-before-wrap" src="/Nooneen Design_files/140dfcf5-76cc-41cb-85dd-9c4559450184.png" alt="140dfcf5-76cc-41cb-85dd-9c4559450184" style="max-width: 360px; width: 360px;">
 
 																			</div>
 																			<div class="before-after-image image-after" style="position: absolute; width: auto;">
-																				<img class="image-after-wrap" src="./Nooneen Design_files/346090e8-3773-4588-a376-0fea63ddda72.png" alt="Eclectic, Transitional Patio" style="max-width: 360px; width: 360px;">
+																				<img class="image-after-wrap" src="/Nooneen Design_files/346090e8-3773-4588-a376-0fea63ddda72.png" alt="Eclectic, Transitional Patio" style="max-width: 360px; width: 360px;">
 
 																			</div>
 
@@ -443,7 +436,7 @@ body{
 										</div>
 									</section>
 
-									<section class="elementor-element elementor-element-e0b958d elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
+									<!-- <section class="elementor-element elementor-element-e0b958d elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
 										data-id="e0b958d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="width: 1664px; left: -232px;">
 										<div class="elementor-container elementor-column-gap-default">
 											<div class="elementor-row">
@@ -458,22 +451,22 @@ body{
 																	<div class="elementor-image-carousel-wrapper swiper-container swiper-container-initialized swiper-container-horizontal" dir="ltr">
 																		<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch" style="transition-duration: 0ms; transform: translate3d(-3426px, 0px, 0px);">
 																			<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="3" style="width: 1142px;">
-																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./Nooneen Design_files/imagec2.jpg" alt="imagec2"></figure>
+																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/Nooneen Design_files/imagec2.jpg" alt="imagec2"></figure>
 																			</div>
 																			<div class="swiper-slide" data-swiper-slide-index="0" style="width: 1142px;">
-																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./Nooneen Design_files/iamge-c.jpg" alt="iamge-c"></figure>
+																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/Nooneen Design_files/iamge-c.jpg" alt="iamge-c"></figure>
 																			</div>
 																			<div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1" style="width: 1142px;">
-																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./Nooneen Design_files/imagec0.jpg" alt="imagec0"></figure>
+																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/Nooneen Design_files/imagec0.jpg" alt="imagec0"></figure>
 																			</div>
 																			<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="2" style="width: 1142px;">
-																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./Nooneen Design_files/imagec1.jpg" alt="imagec1"></figure>
+																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/Nooneen Design_files/imagec1.jpg" alt="imagec1"></figure>
 																			</div>
 																			<div class="swiper-slide swiper-slide-next" data-swiper-slide-index="3" style="width: 1142px;">
-																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./Nooneen Design_files/imagec2.jpg" alt="imagec2"></figure>
+																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/Nooneen Design_files/imagec2.jpg" alt="imagec2"></figure>
 																			</div>
 																			<div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 1142px;">
-																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./Nooneen Design_files/iamge-c.jpg" alt="iamge-c"></figure>
+																				<figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/Nooneen Design_files/iamge-c.jpg" alt="iamge-c"></figure>
 																			</div>
 																		</div>
 																		<div class="elementor-swiper-button elementor-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
@@ -525,7 +518,7 @@ body{
 												</div>
 											</div>
 										</div>
-									</section>
+									</section> -->
 
 									<!-- <section class="elementor-element elementor-element-365a681 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="365a681"
 										data-element_type="section">
@@ -948,7 +941,7 @@ body{
 
 
 		</div><!-- #main -->
-    <script type="text/javascript" src="./Nooneen Design_files/theplus-post-10.min.js"></script>
+    <script type="text/javascript" src="/Nooneen Design_files/theplus-post-10.min.js"></script>
 
 
 

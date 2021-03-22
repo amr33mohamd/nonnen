@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('ar.layout')
 @section('content')
 
 <body class="product-template-default single single-product postid-473 wp-custom-logo wp-embed-responsive theme-techreshape_v4.3 the7-core-ver-2.5.0.1 woocommerce woocommerce-page woocommerce-js title-off dt-responsive-on right-mobile-menu-close-icon ouside-menu-close-icon mobile-hamburger-close-bg-enable mobile-hamburger-close-bg-hover-enable  fade-medium-mobile-menu-close-icon fade-medium-menu-close-icon srcset-enabled btn-flat custom-btn-color custom-btn-hover-color phantom-sticky phantom-shadow-decoration phantom-custom-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style the7-ver-4.3 elementor-default elementor-page-573 elementor-page-566 elementor-page-560 no-mobile closed-overlay-mobile-header" data-elementor-device-mode="desktop" data-new-gr-c-s-check-loaded="14.990.0" data-gr-ext-installed="">

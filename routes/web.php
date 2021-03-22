@@ -6,6 +6,13 @@ use App\Http\Controllers\ShopController;
 use App\Http\Controllers\IndexController;
 use App\Http\Controllers\ChatController;
 
+
+use App\Http\Controllers\ar\UserControllerar;
+use App\Http\Controllers\ar\ShopControllerar;
+use App\Http\Controllers\ar\IndexControllerar;
+use App\Http\Controllers\ar\ChatControllerar;
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -34,3 +41,24 @@ Route::get('/product',[ShopController::class, 'product']);
 
 Route::get('/chat',[ChatController::class, 'index']);
 Route::post('/add-message',[ChatController::class, 'addMessage']);
+
+
+
+/////////////////
+Route::get('ar/', [IndexControllerar::class, 'index']);
+Route::get('ar/gallery',[IndexControllerar::class, 'gallery']);
+
+Route::get('ar/quiz',[IndexControllerar::class, 'quiz']);
+Route::get('ar/login',[UserControllerar::class, 'login']);
+Route::post('ar/login_response',[UserControllerar::class, 'login_response']);
+
+Route::get('ar/register',[UserControllerar::class, 'register']);
+Route::get('ar/register-designer',[UserControllerar::class, 'registerDesigner']);
+
+Route::post('ar/register_user',[UserControllerar::class, 'register_user']);
+
+Route::get('ar/shop',[ShopControllerar::class, 'index']);
+Route::get('ar/product',[ShopControllerar::class, 'product']);
+
+Route::get('ar/chat',[ChatControllerar::class, 'index']);
+Route::post('ar/add-message',[ChatControllerar::class, 'addMessage']);
